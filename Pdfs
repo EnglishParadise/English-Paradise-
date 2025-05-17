@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>PDFs - English Paradise</title>
+</head>
+<body>
+  <h1>Download Study Material (PDFs)</h1>
+  <ul>
+    <li><a href="https://example.com/file1.pdf" target="_blank">Grammar Notes PDF</a></li>
+    <li><a href="https://example.com/file2.pdf" target="_blank">Vocabulary List PDF</a></li>
+  </ul>
+  <a href="index.html">Back to Home</a>
+</body>
+</html>
