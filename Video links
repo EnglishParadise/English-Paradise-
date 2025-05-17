@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>YouTube Videos - English Paradise</title>
+</head>
+<body>
+  <h1>Our YouTube Videos</h1>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=VIDEO_ID1" target="_blank">Lesson 1: Tenses</a></li>
+    <li><a href="https://www.youtube.com/watch?v=VIDEO_ID2" target="_blank">Lesson 2: Active & Passive Voice</a></li>
+  </ul>
+  <a href="index.html">Back to Home</a>
+</body>
+</html>
